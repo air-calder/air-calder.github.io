@@ -1,0 +1,20 @@
+# Add one entry here each time a new short paper goes up.
+# The page will rebuild automatically when this file is pushed.
+#
+# Fields:
+#   title        — full paper title
+#   url          — link to the paper's GitHub Pages site
+#   github_url   — link to the paper's GitHub repo (shown alongside)
+#   authors      — plain text author list
+#   year         — publication year (integer)
+#   paper_number — e.g. "CALDER Short Paper No. 1"
+#   research_areas — list of tag strings
+
+- title: "Correctional Education Credentials Improve Earnings and Employment"
+  url: "https://air-calder.github.io/paper-course-corrections/"
+  github_url: "https://github.com/air-calder/paper-course-corrections"
+  authors: "James Cowan, Dan Goldhaber, Suveskshya Gautam"
+  year: 2026
+  paper_number: "CALDER Short Paper No. 1"
+  research_areas:
+    - Education Systems & Policies

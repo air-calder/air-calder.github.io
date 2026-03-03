@@ -1,0 +1,35 @@
+remote_theme: air-calder/paper-theme
+
+title: CALDER Short Papers
+description: Short papers from the Center for Analysis of Longitudinal Data in Education Research
+baseurl: ""
+url: "https://air-calder.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation — inherited from theme but overridden here to set "All Short Papers" as active root
+nav_links:
+  - title: About
+    url: "https://caldercenter.org/about"
+  - title: Publications
+    url: "https://caldercenter.org/publications"
+  - title: Experts
+    url: "https://caldercenter.org/experts"
+  - title: All Short Papers
+    url: "https://air-calder.github.io"
+
+footer_address_html: |
+  <strong>Center for Analysis of Longitudinal Data in Education Research</strong><br>
+  American Institutes for Research<br>
+  1400 Crystal Drive, 10th Floor<br>
+  Arlington, VA 22202
+
+social_links:
+  - label: X (Twitter)
+    url: "https://x.com/caldercenter"
+    icon: x
+  - label: Bluesky
+    url: "https://bsky.app/profile/caldercenter.bsky.social"
+    icon: bluesky
